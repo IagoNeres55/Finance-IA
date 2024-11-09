@@ -1,3 +1,5 @@
+import { Button } from "./_components/ui/button";
+
 export default function Home() {
-  return <h1 className="text-red-500 p-5 flex">hellow word</h1>;
+  return <Button>teste</Button>;
 }
